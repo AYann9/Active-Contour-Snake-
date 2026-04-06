@@ -55,6 +55,3 @@ We focus on performance in **medical images, intensity inhomogeneity, noise, com
 - MATLAB / Python 3.x
 - NumPy, Matplotlib, OpenCV
 - Image Processing Toolbox
-
-## License
-MIT
